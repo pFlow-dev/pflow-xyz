@@ -4,7 +4,7 @@ pflow.xyz
 Weaving the Web3 World with Precision
 
 - [pflow.xyz](https://pflow.xyz)
-- [pflow.ens](pflow.ens)
+- [pflow.eth](ipns://pflow.eth)
 
 status
 ------
